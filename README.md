@@ -1,4 +1,4 @@
-# spaceInvaders
+# SpaceInvaders
 
 A SpaceInvators is a kind of video game derived from the action game in which the player control a ship or a character to destroy a large number of enemies using bullets while dodging enemy bullets to stay alive.
 
